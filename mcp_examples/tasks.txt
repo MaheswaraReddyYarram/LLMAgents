@@ -1,0 +1,1 @@
+Check calendar events for today and create a summary of the events.
