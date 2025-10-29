@@ -5,3 +5,4 @@
 /mcp_examples/mcp_venv/
 .env
 .venv
+/mcp_examples/__init__.py
