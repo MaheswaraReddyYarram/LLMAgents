@@ -4,3 +4,4 @@
 /mcp_examples/.env
 /mcp_examples/mcp_venv/
 .env
+.venv
